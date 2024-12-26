@@ -12,11 +12,11 @@ Based in India, I am a Mechatronics Engineer who enjoys exploring the world of r
 
 ## Top Projects
 
-- [SensorSync](https://github.com/LUCIFERsDen26/SensorSync): An educational kit for IIoT. ⭐ 0 | Language: HTML | Forks: 0 | Issues: 0
-- [meal-mind-ai](https://github.com/LUCIFERsDen26/meal-mind-ai): An AI-based meal recommendation system. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
-- [Idan_web-app](https://github.com/LUCIFERsDen26/Idan_web-app): A web app demonstrating authentication using Casdoor and Flask. ⭐ 1 | Language: Python | Forks: 0 | Issues: 0
-- [Ultimate_TTT](https://github.com/LUCIFERsDen26/Ultimate_TTT): A multiplayer tic-tac-toe game. ⭐ 0 | Language: HTML | Forks: 0 | Issues: 0
-- [Resume-Recommendation-System](https://github.com/LUCIFERsDen26/Resume-Recommendation-System): A Jupyter Notebook for resume and job description matching. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
+[![SensorSync](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFERsDen26&repo=SensorSync&theme=dark)](https://github.com/LUCIFERsDen26/SensorSync)
+[![meal-mind-ai](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFERsDen26&repo=meal-mind-ai&theme=dark)](https://github.com/LUCIFERsDen26/meal-mind-ai)
+[![Idan_web-app](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFERsDen26&repo=Idan_web-app&theme=dark)](https://github.com/LUCIFERsDen26/Idan_web-app)
+[![Ultimate_TTT](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFERsDen26&repo=Ultimate_TTT&theme=dark)](https://github.com/LUCIFERsDen26/Ultimate_TTT)
+[![Resume-Recommendation-System](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFERsDen26&repo=Resume-Recommendation-System&theme=dark)](https://github.com/LUCIFERsDen26/Resume-Recommendation-System)
 
 ## GitHub Stats
 
