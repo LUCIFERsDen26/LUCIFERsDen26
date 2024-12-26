@@ -8,7 +8,7 @@ Based in India, I am a Mechatronics Engineer who enjoys exploring the world of r
 
 ## Skills & Technologies
 
-py,arduino,js,linux,docker,flask,github,mysql,mongodb,sqlite,vscode,selenium,postman,nginx
+[![My Skills](https://skillicons.dev/icons?i=py,arduino,js,linux,docker,flask,github,mysql,mongodb,sqlite,vscode,selenium,postman,nginx&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
